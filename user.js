@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Big Iron
-// @version      0.0.00001
+// @version      0.0.00002
 // @author       The Boys
 // @include      https://cytu.be/r/dostthoujeer
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
@@ -33,7 +33,7 @@ addGlobalStyle ( `
 function scriptAutoRefresh()
 {
     var replaceArry = [
-    [/genie/gi, 'ASS EATER!!'],
+    [/genie/gi, 'ASS EATER!?!'],
 
 ];
 var numTerms = replaceArry.length;

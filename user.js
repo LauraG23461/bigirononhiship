@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Big Iron
-// @version      0.13
+// @version      0.14
 // @author       The Boys
 // @include      https://cytu.be/r/dostthoujeer
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
@@ -10,7 +10,7 @@
 // ==/UserScript==
 
 var timer = setInterval (function() { scriptAutoRefresh(); }, 250);
-
+// Hey.
 function addGlobalStyle(css) {
     var head, style;
     head = document.getElementsByTagName('head')[0];

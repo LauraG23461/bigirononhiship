@@ -21,9 +21,9 @@ function addGlobalStyle(css) {
     head.appendChild(style);
 }
 
-$("#nav-collapsible").click(function() {
+/*$("#nav-collapsible").click(function() {
     alert("Heh, hey");
-});
+});*/
 
 addGlobalStyle ( `
 

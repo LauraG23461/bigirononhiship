@@ -1,9 +1,7 @@
 // ==UserScript==
-// @name         ass
-// @namespace    http://tampermonkey.net/
+// @name         Big Iron
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @author       The Boys
 // @include      https://cytu.be/r/dostthoujeer
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
 // @downloadURL  https://raw.githubusercontent.com/Maxwell23461/bigirononhiship/master/user.js

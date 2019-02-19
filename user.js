@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Big Iron
-// @version      0.181
+// @version      0.182
 // @author       The Boys
 // @include      https://cytu.be/r/dostthoujeer
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js

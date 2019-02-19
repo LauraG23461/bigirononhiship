@@ -10,7 +10,7 @@
 // ==/UserScript==
 
 var timer = setInterval (function() { scriptAutoRefresh(); }, 250);
-// Hey.
+
 function addGlobalStyle(css) {
     var head, style;
     head = document.getElementsByTagName('head')[0];

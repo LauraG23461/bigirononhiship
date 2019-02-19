@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Big Iron
-// @version      0.17
+// @version      0.181
 // @author       The Boys
 // @include      https://cytu.be/r/dostthoujeer
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
@@ -19,9 +19,11 @@ function addGlobalStyle(css) {
     style.type = 'text/css';
     style.innerHTML = css;
     head.appendChild(style);
-    document.alert("Hey.");
-    document.alert("Hey 2.");
 }
+
+$("#nav-collapsible").click(function() {
+    alert("Heh, hey");
+});
 
 addGlobalStyle ( `
 

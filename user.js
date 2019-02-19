@@ -5,7 +5,8 @@
 // @description  try to take over the world!
 // @author       You
 // @include      https://cytu.be/r/dostthoujeer
-// @require        https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+// @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+// @updateURL    https://github.com/Maxwell23461/bigirononhiship/blob/master/user.js
 // @grant        none
 // ==/UserScript==
 

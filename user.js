@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Big Iron
-// @version      0.183
+// @version      0.0.00001
 // @author       The Boys
 // @include      https://cytu.be/r/dostthoujeer
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
-// @downloadURL  https://github.com/Maxwell23461/bigirononhiship/blob/master/user.js
-// @updateURL    https://github.com/Maxwell23461/bigirononhiship/blob/master/user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/Maxwell23461/bigirononhiship/user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/Maxwell23461/bigirononhiship/user.js
 // @grant        none
 // ==/UserScript==
 

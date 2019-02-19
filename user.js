@@ -4,8 +4,8 @@
 // @author       The Boys
 // @include      https://cytu.be/r/dostthoujeer
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
-// @downloadURL  https://cdn.jsdelivr.net/gh/Maxwell23461/bigirononhiship/user.js
-// @updateURL    https://cdn.jsdelivr.net/gh/Maxwell23461/bigirononhiship/user.js
+// @downloadURL  https://raw.githubusercontent.com/Maxwell23461/bigirononhiship/master/user.js
+// @updateURL    https://raw.githubusercontent.com/Maxwell23461/bigirononhiship/master/user.js
 // @grant        none
 // ==/UserScript==
 

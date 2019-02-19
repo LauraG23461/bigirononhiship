@@ -33,7 +33,7 @@ addGlobalStyle ( `
 function scriptAutoRefresh()
 {
     var replaceArry = [
-    [/genie/gi, 'ASS EATER!!!!!!!'],
+    [/genie/gi, 'ASS EATER!!'],
 
 ];
 var numTerms = replaceArry.length;

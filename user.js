@@ -6,7 +6,7 @@
 // @author       You
 // @include      https://cytu.be/r/dostthoujeer
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
-// @updateURL    https://github.com/Maxwell23461/bigirononhiship/blob/master/user.js
+// @updateURL    https://raw.githubusercontent.com/Maxwell23461/bigirononhiship/master/user.js
 // @grant        none
 // ==/UserScript==
 

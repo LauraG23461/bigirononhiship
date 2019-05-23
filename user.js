@@ -75,7 +75,7 @@ GM_addStyle (`
 //███████████████████ fuu zone ███████████████████
 
 var zNode = document.createElement ('div');
-zNode.innerHTML = '<img src="https://vignette.wikia.nocookie.net/bokunoheroacademia/images/6/69/Ochaco_School_Uniform_Full_Body.png/revision/latest/scale-to-width-down/153?cb=20160112174417" width="100"></img>';
+zNode.innerHTML = '<img src="https://en.touhouwiki.net/images/1/15/Th06Patchouli.png" width="100"></img>';
 zNode.setAttribute ('id', 'ochacoU');
 document.body.appendChild (zNode);
 
